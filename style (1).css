@@ -1,0 +1,26 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travel_blog{
+border:1px dotted lavenderblush;
+}
+.travel_blog img{
+width:100%;
+}
+.travel_blog h5, .travel_blog p{
+margin: 20px;
+}
+
+.movie_na{
+font-variant:small-caps; 
+font-size:25px;
+padding:6px 22px;
+border-radius:10px;
+margin-bottom:15px;}
+.movie_na i{
+float:right;
+}
+.descript span{
+color:lightgoldenrodyellow;
+}
